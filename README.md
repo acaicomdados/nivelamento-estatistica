@@ -14,3 +14,7 @@ A ideia é passar por tópicos principais e passar por uma questão prática (na
   - (*em breve*)
 
 Em breve será colocado uma pasta pra quem  deseja colocar os seu projetos e levar em discussão nas aulas 
+
+## Aula 1
+
+Além do slide utilizado na primeira aula foi utilizados esse pra da conceitos iniciais em estatistica, que pode ser encontrado [aqui](https://github.com/acaicomdados/analise-reservatorios-federais/blob/main/Extra/Minicurso%20Jes%20/an%C3%A1lise%20de%20dados.pdf)
